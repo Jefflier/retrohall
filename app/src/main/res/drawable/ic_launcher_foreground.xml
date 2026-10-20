@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Controller body -->
+    <path
+        android:fillColor="#FFFFB300"
+        android:pathData="M38,38 H70 A16,16 0 0 1 86,54 V58 A14,14 0 0 1 72,72 C66,72 62,66 58,62 H50 C46,66 42,72 36,72 A14,14 0 0 1 22,58 V54 A16,16 0 0 1 38,38 Z" />
+    <!-- D-pad -->
+    <path
+        android:fillColor="#FF1B1E26"
+        android:pathData="M34,48 H40 V51 H43 V57 H40 V60 H34 V57 H31 V51 H34 Z" />
+    <!-- Select / Start -->
+    <path
+        android:fillColor="#FF1B1E26"
+        android:pathData="M48,47 H52.5 V49.5 H48 Z M55.5,47 H60 V49.5 H55.5 Z" />
+    <!-- Face buttons -->
+    <path
+        android:fillColor="#FFE53935"
+        android:pathData="M64.5,57 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+    <path
+        android:fillColor="#FF1E88E5"
+        android:pathData="M71.5,50 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+</vector>
